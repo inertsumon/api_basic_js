@@ -23,11 +23,20 @@ h1 {
 }
 h4 {
   color: crimson;
+  background-color: coral;
+  width: fit-content;
+  margin: auto;
+  padding: 0px 5px;
 }
 h3 {
   color: yellow;
 }
 p {
-  font-size: 20px;
+  background-color: chocolate;
+  width: fit-content;
+  margin: auto;
+  padding: 0px 5px;
+  color: chartreuse;
+  font-size: 18px;
   font-weight: 500;
 }
